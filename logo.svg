@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+	<title>logo</title>
+	<style>
+		.s0 { paint-order:stroke fill markers;stroke: #000000;stroke-width: 6;stroke-linejoin: round;;fill: #ffffff } 
+	</style>
+	<path id="HN" class="s0" aria-label="HN"  d="m71.4 53.7h17.8v92.3h-17.8v-39.4h-41.8v39.4h-18v-92.3h18v37.3h41.8zm102.1 92.3l-47.1-59.3v59.3h-17.9v-92.3h14.3l47.7 60.8v-60.7h17.9v92.2z"/>
+</svg>
